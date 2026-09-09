@@ -24,11 +24,13 @@ On top of that, the peer-evaluation system trained me to **give and receive hone
 Some of my favurite proyects =)
 | Project | Description | Skills |
 |---|---|---|
+| [philosophers](https://github.com/ualcibar/philosophers) | Classic Dining Philosophers problem, simulating concurrent processes sharing limited resources without deadlocks. | C, multithreading, synchronization |
 | [fract-ol](https://github.com/ualcibar/fract-ol) | Renders Mandelbrot, Julia and Burning Ship fractals interactively using MinilibX. | C, complex numbers, graphics |
 | [cub-3d](https://github.com/ualcibar/cub-3d) | Raycasting engine inspired by the first FPS ever made, rendering a dynamic first-person view inside a maze. | C, raycasting, algorithms |
 | [webserv](https://github.com/ualcibar/webserv) | A custom HTTP server built from scratch, testable with a real web browser. | C++, networking, HTTP |
 | [ft_transcendence](https://github.com/ualcibar/trancendence) | Final Common Core project: a real-time multiplayer web app (Pong) with a full backend/frontend stack. | TypeScript, web architecture |
- 
+| [cpp-modules](https://github.com/ualcibar/cpp-modules) | All 10 modules of the C++ piscine (CPP00–CPP09): OOP, memory management, inheritance, polymorphism, templates and STL. | C++, OOP, STL |
+
 ---
 
 ### Why study at 42?
