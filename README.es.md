@@ -24,10 +24,12 @@ Además, el sistema de evaluación entre pares me entrenó para **dar y recibir 
 Algunos de mis proyectos favoritos =)
 | Proyecto | Descripción | Skills |
 |---|---|---|
+| [philosophers](https://github.com/ualcibar/philosophers) | El clásico problema de los filósofos comensales: simula procesos concurrentes compartiendo recursos limitados sin bloqueos mutuos. | C, multithreading, sincronización |
 | [fract-ol](https://github.com/ualcibar/fract-ol) | Renderiza los fractales de Mandelbrot, Julia y Burning Ship de forma interactiva usando MinilibX. | C, números complejos, gráficos |
 | [cub-3d](https://github.com/ualcibar/cub-3d) | Motor de raycasting inspirado en el primer FPS de la historia, que genera una vista dinámica en primera persona dentro de un laberinto. | C, raycasting, algoritmos |
 | [webserv](https://github.com/ualcibar/webserv) | Un servidor HTTP construido desde cero, comprobable con un navegador real. | C++, redes, HTTP |
 | [ft_transcendence](https://github.com/ualcibar/trancendence) | Proyecto final del Common Core: una aplicación web multijugador en tiempo real (Pong) con backend y frontend completos. | TypeScript, arquitectura web |
+| [cpp-modules](https://github.com/ualcibar/cpp-modules) | Los 10 módulos de la piscina de C++ (CPP00–CPP09): POO, gestión de memoria, herencia, polimorfismo, templates y STL. | C++, POO, STL |
 
 ---
 
